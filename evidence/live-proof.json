@@ -1,0 +1,23 @@
+{
+  "bookId": "ACCESS-1791072846",
+  "caseId": "EAST-1791072846",
+  "transactions": {
+    "open": "0xfcf97d626d0b40e86f86f60cc141faa0eac01fe5df4a2df877b4ff9848662bbf",
+    "file": "0x226f9099d251a8ed7b325ee14e0838fed0920751eb5bdb757167c390ecc14b04",
+    "evaluate": "0x4da3c92fea7f881dff68ab05b404d52f22c2b2dabe7e40349d223f98b8c94c47"
+  },
+  "state": {
+    "analog_indexes": [],
+    "applicant": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "decision": "GRANT",
+    "id": "ACCESS-1791072846:EAST-1791072846",
+    "request_digest": "06a0dd2b903f42adee9d44257eb943c8aa67e42b4bb075282b1e42237493433a",
+    "request_url": "https://cdn.jsdelivr.net/gh/sanshos1/precedent-loom@main/evidence/case-one.md",
+    "rule_indexes": [
+      0
+    ],
+    "seq": 0,
+    "state": "FINAL"
+  },
+  "walletDisclosure": "All wallets are operator-controlled demo wallets."
+}

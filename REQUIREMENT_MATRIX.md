@@ -7,5 +7,5 @@
 | Every state-driving field validator checked | `_judge` comparative principle | consensus field assertion | PASS |
 | Similar precedent decisions cannot conflict silently | `precedent_conflict` | positive and negative unit test | PASS |
 | Policy mutation fails closed | `evaluate` digest check | source inspection | PASS |
-| Deployed source and live transaction | deployment evidence | pending network run | UNVERIFIED |
+| Deployed source and live transaction | deployment evidence | byte match plus `FINAL` live case | PASS |
 
